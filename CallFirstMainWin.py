@@ -18,3 +18,5 @@ if __name__ == '__main__':
     myWin = MyMainWinow()
     myWin.show()
     sys.exit(app.exec())
+
+##test the git
